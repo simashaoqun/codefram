@@ -1,0 +1,5 @@
+{
+  "name": "代码农场：云端自动化",
+  "description": "一个编程模拟游戏，编写类似 Python 的代码来控制机器人，自动化农业生产，并利用 Gemini API 进行编程辅助。",
+  "requestFramePermissions": []
+}
